@@ -1,6 +1,6 @@
 # kotak_infak
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/CNl_9NR323c?si=V2rc2-HOXjQS10mq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe](https://www.youtube.com/watch?v=CNl_9NR323c)>
+[https://www.youtube.com/watch?v=CNl_9NR323c]
 
 apk:
 https://drive.google.com/file/d/1ZuvX...
