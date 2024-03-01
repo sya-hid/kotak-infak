@@ -2,10 +2,6 @@
 
 [![KOTAK INFAK](https://img.youtube.com/vi/CNl_9NR323c/0.jpg)](https://www.youtube.com/watch?v=CNl_9NR323c)
 
-[![Watch the video](https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg)](https://www.youtube.com/embed/APOPm01BVrk)
-
-[<img src="https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/APOPm01BVrk)
 apk:
 https://drive.google.com/file/d/1ZuvX...
 
