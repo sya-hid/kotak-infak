@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "928150354762",
+    "project_id": "kotak-infak",
+    "storage_bucket": "kotak-infak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928150354762:android:7ddc097f40adaee79b9fb3",
+        "android_client_info": {
+          "package_name": "com.example.kotak_infak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928150354762-u530bug2aun8pqab7kpt2mbo46d1ncp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotak_infak",
+            "certificate_hash": "5322289359637b3bf0fbeafbddb606adfadc1be9"
+          }
+        },
+        {
+          "client_id": "928150354762-3i1o1vjcv35hajgknrgmv1uslrel958e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3nd2nz_RHZE9ZJ4LA2FBakl4KIBO41i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928150354762-3i1o1vjcv35hajgknrgmv1uslrel958e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
