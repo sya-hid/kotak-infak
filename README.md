@@ -1,6 +1,6 @@
 # kotak_infak
 
-[https://www.youtube.com/watch?v=CNl_9NR323c]
+[![KOTAK INFAK](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=CNl_9NR323c)
 
 apk:
 https://drive.google.com/file/d/1ZuvX...
