@@ -21,24 +21,12 @@ Petugas
 4. Edit profile
 
 Admin
-email: admin@mail.com
-password: 19950223
+1. email: admin@mail.com password: 19950223
 
 Petugas
-email: budi_sudarsono@mail.com
-password: 19990817
-
-email: rahman_putra@mail.com
-password: 19980323
-
-email: irfan_hadi@mail.com
-password: 19980828
-
-email: kaylazafira@mail.com
-password: 19990817
-
-email: iqbal@mail.com
-password: 20000704
-
-email: khaela@mail.com
-password: 20011010
+1. email: budi_sudarsono@mail.com password: 19990817
+2. email: rahman_putra@mail.com password: 19980323
+3. email: irfan_hadi@mail.com password: 19980828
+4. email: kaylazafira@mail.com password: 19990817
+5. email: iqbal@mail.com password: 20000704
+6. email: khaela@mail.com password: 20011010
