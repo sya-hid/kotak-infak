@@ -30,3 +30,5 @@ Petugas
 4. email: kaylazafira@mail.com password: 19990817
 5. email: iqbal@mail.com password: 20000704
 6. email: khaela@mail.com password: 20011010
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.kotak-infak"/>  
